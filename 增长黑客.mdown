@@ -23,8 +23,8 @@ Growth hacking 更像是专门为初创企业设立的 marketing 部门，**它�
 * **一切以数据说话**   
  -分析工具    
  -A/B Testing    
-* **专注于产品本身**    
- -PMF(产品与市场契合)    
+* **了解用户，了解产品，了解自己**    
+ -产品定位，PMF(产品与市场契合)    
  -重视需求    
  -MVP(最小化可行产品)验证需求    
  -用户调研    
@@ -35,3 +35,5 @@ Growth hacking 更像是专门为初创企业设立的 marketing 部门，**它�
 3.**Piwik**     
 4.**GrowingIO**    
 5.**SimilarWeb**    
+
+## 案例分析
