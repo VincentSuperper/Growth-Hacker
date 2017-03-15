@@ -30,6 +30,7 @@ Growth hacking 更像是专门为初创企业设立的 marketing 部门，**它�
  -MVP(最小化可行产品)验证需求    
  -用户调研   
  -做自己擅长的事情
+* **待探索...**
  
 ## 常用工具
 * **Google Analytics**    
