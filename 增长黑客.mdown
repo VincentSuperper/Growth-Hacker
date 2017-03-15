@@ -30,10 +30,10 @@ Growth hacking 更像是专门为初创企业设立的 marketing 部门，**它�
  -用户调研    
 
 ## 常用工具箱
-1.**Google Analytics**    
-2.**MixPanel**    
-3.**Piwik**     
-4.**GrowingIO**    
-5.**SimilarWeb**    
+* **Google Analytics**    
+* **MixPanel**    
+* **Piwik**     
+* **GrowingIO**    
+* **SimilarWeb**    
 
 ## 案例分析
